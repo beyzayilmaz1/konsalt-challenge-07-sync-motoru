@@ -1,0 +1,7 @@
+ci_name,ci_type,ip_address,os,owner_email,ram_gb,location,satir_no,sebep
+IST-WEB01,server,10.30.2.5,Ubuntu 22.04,ali.c@konsalt.example,16,Istanbul-DC,34,birebir_tekrar_eden_satir
+ist-web02,Server,10.30.2.6,ubuntu 22.04,ALI.C@konsalt.example,16,istanbul-dc,35,buyuk_kucuk_harf_farkiyla_duplicate_ci_name (ilk_satir:5)
+ANKARA-DB02,server,10.20.1.999,RHEL 9,mehmet.y@konsalt.example,64,Ankara-DC,36,gecersiz_ip_adresi:'10.20.1.999'
+TEST-BOX,server,10.20.9.77,CentOS 7,not-an-email,abc,Ankara-DC,37,bozuk_e_posta:'not-an-email'; ram_gb_sayisal_olmalı:'abc'
+,server,10.20.9.78,CentOS 7,mehmet.y@konsalt.example,4,Ankara-DC,38,bos_zorunlu_alan:ci_name
+BACKUP-NAS,storage,10.20.1.40,,mehmet.y@konsalt.example,,Ankara-DC,39,"gecersiz_ci_type:'storage' (kabul_edilen:['application', 'network_device', 'server'])"

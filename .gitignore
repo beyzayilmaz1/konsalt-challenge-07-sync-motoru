@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+sync_state.json
+sync.log
+*.egg-info/

@@ -1,0 +1,183 @@
+{
+  "baslangic": "2026-07-28T12:40:32.836659+00:00",
+  "bitis": "2026-07-28T12:40:38.344582+00:00",
+  "dry_run": false,
+  "okunan": 38,
+  "elenen": 6,
+  "eklenen": 32,
+  "guncellenen": 0,
+  "atlanan_delta": 0,
+  "planlanan": 0,
+  "kalici_hata": 0,
+  "retry_sayisi": 5,
+  "token_alma_sayisi": 1,
+  "api_istek_sayisi": 38,
+  "toplam_sure_saniye": 5.507,
+  "ortalama_api_suresi_ms": 12.96,
+  "en_hizli_api_suresi_ms": 3.85,
+  "en_yavas_api_suresi_ms": 32.37,
+  "denge_kontrolu": true,
+  "hatali_kayitlar_dosyasi": "hatali_kayitlar.csv",
+  "detaylar": [
+    {
+      "ci_name": "ANKARA-DB01",
+      "durum": "created",
+      "satir_no": 2
+    },
+    {
+      "ci_name": "ANKARA-APP01",
+      "durum": "created",
+      "satir_no": 3
+    },
+    {
+      "ci_name": "IST-WEB01",
+      "durum": "created",
+      "satir_no": 4
+    },
+    {
+      "ci_name": "IST-WEB02",
+      "durum": "created",
+      "satir_no": 5
+    },
+    {
+      "ci_name": "IZMIR-MON01",
+      "durum": "created",
+      "satir_no": 6
+    },
+    {
+      "ci_name": "CRM-PROD",
+      "durum": "created",
+      "satir_no": 7
+    },
+    {
+      "ci_name": "InvoiceService",
+      "durum": "created",
+      "satir_no": 8
+    },
+    {
+      "ci_name": "EDGE-SW01",
+      "durum": "created",
+      "satir_no": 9
+    },
+    {
+      "ci_name": "EDGE-SW02",
+      "durum": "created",
+      "satir_no": 10
+    },
+    {
+      "ci_name": "EDGE-SW03",
+      "durum": "created",
+      "satir_no": 11
+    },
+    {
+      "ci_name": "EDGE-SW04",
+      "durum": "created",
+      "satir_no": 12
+    },
+    {
+      "ci_name": "EDGE-SW05",
+      "durum": "created",
+      "satir_no": 13
+    },
+    {
+      "ci_name": "EDGE-SW06",
+      "durum": "created",
+      "satir_no": 14
+    },
+    {
+      "ci_name": "EDGE-SW07",
+      "durum": "created",
+      "satir_no": 15
+    },
+    {
+      "ci_name": "EDGE-SW08",
+      "durum": "created",
+      "satir_no": 16
+    },
+    {
+      "ci_name": "EDGE-SW09",
+      "durum": "created",
+      "satir_no": 17
+    },
+    {
+      "ci_name": "EDGE-SW10",
+      "durum": "created",
+      "satir_no": 18
+    },
+    {
+      "ci_name": "EDGE-SW11",
+      "durum": "created",
+      "satir_no": 19
+    },
+    {
+      "ci_name": "EDGE-SW12",
+      "durum": "created",
+      "satir_no": 20
+    },
+    {
+      "ci_name": "EDGE-SW13",
+      "durum": "created",
+      "satir_no": 21
+    },
+    {
+      "ci_name": "EDGE-SW14",
+      "durum": "created",
+      "satir_no": 22
+    },
+    {
+      "ci_name": "EDGE-SW15",
+      "durum": "created",
+      "satir_no": 23
+    },
+    {
+      "ci_name": "EDGE-SW16",
+      "durum": "created",
+      "satir_no": 24
+    },
+    {
+      "ci_name": "EDGE-SW17",
+      "durum": "created",
+      "satir_no": 25
+    },
+    {
+      "ci_name": "EDGE-SW18",
+      "durum": "created",
+      "satir_no": 26
+    },
+    {
+      "ci_name": "EDGE-SW19",
+      "durum": "created",
+      "satir_no": 27
+    },
+    {
+      "ci_name": "EDGE-SW20",
+      "durum": "created",
+      "satir_no": 28
+    },
+    {
+      "ci_name": "EDGE-SW21",
+      "durum": "created",
+      "satir_no": 29
+    },
+    {
+      "ci_name": "EDGE-SW22",
+      "durum": "created",
+      "satir_no": 30
+    },
+    {
+      "ci_name": "EDGE-SW23",
+      "durum": "created",
+      "satir_no": 31
+    },
+    {
+      "ci_name": "EDGE-SW24",
+      "durum": "created",
+      "satir_no": 32
+    },
+    {
+      "ci_name": "EDGE-SW25",
+      "durum": "created",
+      "satir_no": 33
+    }
+  ]
+}

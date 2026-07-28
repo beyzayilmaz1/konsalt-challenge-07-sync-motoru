@@ -1,0 +1,39 @@
+ci_name,ci_type,ip_address,os,owner_email,ram_gb,location
+ANKARA-DB01,server,10.20.1.11,RHEL 9,mehmet.y@konsalt.example,128,Ankara-DC
+ANKARA-APP01,server,10.20.1.21,Windows Server 2022,ayse.k@konsalt.example,32,Ankara-DC
+IST-WEB01,server,10.30.2.5,Ubuntu 22.04,ali.c@konsalt.example,16,Istanbul-DC
+IST-WEB02,server,10.30.2.6,Ubuntu 22.04,ali.c@konsalt.example,16,Istanbul-DC
+IZMIR-MON01,server,10.40.3.9,Debian 12,zeynep.o@konsalt.example,8,Izmir-Ofis
+CRM-PROD,application,,,fatma.d@konsalt.example,,Ankara-DC
+InvoiceService,application,,,ayse.k@konsalt.example,,Ankara-DC
+EDGE-SW01,network_device,10.50.0.1,IOS 15.2,netops@konsalt.example,,Ankara-DC
+EDGE-SW02,network_device,10.50.0.2,IOS 15.2,netops@konsalt.example,,Ankara-DC
+EDGE-SW03,network_device,10.50.0.3,IOS 15.2,netops@konsalt.example,,Izmir-Ofis
+EDGE-SW04,network_device,10.50.0.4,IOS 15.2,netops@konsalt.example,,Ankara-DC
+EDGE-SW05,network_device,10.50.0.5,IOS 15.2,netops@konsalt.example,,Ankara-DC
+EDGE-SW06,network_device,10.50.0.6,IOS 15.2,netops@konsalt.example,,Izmir-Ofis
+EDGE-SW07,network_device,10.50.0.7,IOS 15.2,netops@konsalt.example,,Ankara-DC
+EDGE-SW08,network_device,10.50.0.8,IOS 15.2,netops@konsalt.example,,Ankara-DC
+EDGE-SW09,network_device,10.50.0.9,IOS 15.2,netops@konsalt.example,,Ankara-DC
+EDGE-SW10,network_device,10.50.0.10,IOS 15.2,netops@konsalt.example,,Istanbul-DC
+EDGE-SW11,network_device,10.50.0.11,IOS 15.2,netops@konsalt.example,,Istanbul-DC
+EDGE-SW12,network_device,10.50.0.12,IOS 15.2,netops@konsalt.example,,Ankara-DC
+EDGE-SW13,network_device,10.50.0.13,IOS 15.2,netops@konsalt.example,,Istanbul-DC
+EDGE-SW14,network_device,10.50.0.14,IOS 15.2,netops@konsalt.example,,Izmir-Ofis
+EDGE-SW15,network_device,10.50.0.15,IOS 15.2,netops@konsalt.example,,Istanbul-DC
+EDGE-SW16,network_device,10.50.0.16,IOS 15.2,netops@konsalt.example,,Izmir-Ofis
+EDGE-SW17,network_device,10.50.0.17,IOS 15.2,netops@konsalt.example,,Izmir-Ofis
+EDGE-SW18,network_device,10.50.0.18,IOS 15.2,netops@konsalt.example,,Ankara-DC
+EDGE-SW19,network_device,10.50.0.19,IOS 15.2,netops@konsalt.example,,Izmir-Ofis
+EDGE-SW20,network_device,10.50.0.20,IOS 15.2,netops@konsalt.example,,Istanbul-DC
+EDGE-SW21,network_device,10.50.0.21,IOS 15.2,netops@konsalt.example,,Ankara-DC
+EDGE-SW22,network_device,10.50.0.22,IOS 15.2,netops@konsalt.example,,Ankara-DC
+EDGE-SW23,network_device,10.50.0.23,IOS 15.2,netops@konsalt.example,,Istanbul-DC
+EDGE-SW24,network_device,10.50.0.24,IOS 15.2,netops@konsalt.example,,Izmir-Ofis
+EDGE-SW25,network_device,10.50.0.25,IOS 15.2,netops@konsalt.example,,Istanbul-DC
+IST-WEB01,server,10.30.2.5,Ubuntu 22.04,ali.c@konsalt.example,16,Istanbul-DC
+ist-web02,Server,10.30.2.6,ubuntu 22.04,ALI.C@konsalt.example,16,istanbul-dc
+ANKARA-DB02,server,10.20.1.999,RHEL 9,mehmet.y@konsalt.example,64,Ankara-DC
+TEST-BOX,server,10.20.9.77,CentOS 7,not-an-email,abc,Ankara-DC
+,server,10.20.9.78,CentOS 7,mehmet.y@konsalt.example,4,Ankara-DC
+BACKUP-NAS,storage,10.20.1.40,,mehmet.y@konsalt.example,,Ankara-DC
