@@ -3,7 +3,7 @@
 **KONSALT Staj Programı 2026 · Challenge 7**  
 Seviye: Orta · Stack: Python 3 · Ön koşullar: [Challenge 3](https://github.com/beyzayilmaz1/konsalt_challenge03_apikasifi) ve [Challenge 6](https://github.com/beyzayilmaz1/konsalt-challenge-06-mini-envanter-api)
 
-Bu proje, müşterinin CSV envanterini merkezi bir CMDB API'sine güvenilir şekilde aktaran bir **sync aracı**dır. Amaç yalnızca veri göndermek değil; kirli veriyi ayırmak, token süresi ve geçici servis hatalarıyla başa çıkmak, tekrar çalıştırmalarda veri şişirmeyen idempotent bir akış kurmaktır.
+Bu proje, müşterinin CSV envanterini CMDB API'sine aktaran bir **sync aracı**dır. Geçersiz kayıtları ayırır; token yenileme, geçici hatalarda yeniden deneme ve tekrar çalıştırmada çift kayıt oluşturmama (idempotent akış) sağlar.
 
 ---
 
