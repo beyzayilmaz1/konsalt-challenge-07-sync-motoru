@@ -132,7 +132,7 @@ Challenge yalnızca 401 alındığında token yenilemeyi gerektirir. Ek olarak t
 
 ## Teslim Dosyaları ile İlişki
 
-Galip Bey ile paylaşılacak ana teslim seti:
+ Paylaşılacak ana teslim seti:
 
 | Dosya | Rol |
 |-------|-----|
